@@ -1,0 +1,42 @@
+As we prepare for the new year’s technology trends and predictions, it is essential that we reflect on the ground-breaking trends of 2022 — what worked and what did not. This past year more than any other confirmed that technological innovation is crucial to our lives. Digital technologies are taking the world by storm and are here to stay.
+
+Here are just a few examples: in August 2022, the use of streaming services surpassed TV viewing for the first time. In the same month, the American game designer Jason Allen sparked controversy when he won an art competition with an AI-generated painting. Businesses invested in digital transformation to improve customer service and achieve sustainability goals, harnessing the power of predictive analytics.
+
+Although some predicted trends like Facebook’s metaverse did not see the expected success, with Meta losing profit and its spot in the top 20 most valuable US companies, 2022 was undoubtedly a transformative year for the technology industry. In this insight, we look back at five technologies that made significant advancements and transformed businesses in 2022.
+
+Top 5 business technology trends that dominated in 2022
+Artificial intelligence and natural language processing
+Artificial intelligence (AI) saw a real turning point in 2022, mainly thanks to the advances in natural language processing models (NLP). NLP is a way of training machines to give them the ability to understand and produce text and spoken words as similarly to humans as possible.
+
+For example, the AI research and deployment company OpenAI recently introduced a new model called ChatGPT. ChatGPT can answer questions, admit its mistakes, and reject inappropriate requests. It has been tested in a variety of scenarios, such as helping repair a broken line of code and even writing a letter to someone.
+
+This year, AI also gained popularity among the general public thanks to AI content generators. Google and Meta developed their own text-to-video models which generate video content based on text input such as ‘teddy bear washing the dishes’ or ‘wooden figurine surfing on a surfboard in space’.
+
+Similarly, the smartphone app Lensa edits photos digitally using AI in a variety of art styles. Lensa recently sparked controversy for allegedly relying on a neural network that uses existing art without permission.
+
+While this raises concerns for creative businesses and poses ethical questions around copyright, these examples show an increased investment in generative AI for 2022, and the trend is likely to continue in the new year.
+
+Automation in customer service and construction
+Automation in 2022 grew steadily on multiple fronts. Public sector leaders increased operational efficiency and cut costs by implementing process automation for repetitive tasks and back-office work, improving customer service. Similarly, recruiters started to widely implement automation in the candidate selection process, leading to faster response times and increased candidate satisfaction.
+
+In construction, automation is used to reduce risk to workers and increase sustainability. In the UK, 31% of small and medium construction businesses are already using robotic arms to build walls and for modular construction, and 72% of US businesses are open to implementing automation.
+
+Technology advancements in 2022 also included collaborative robots to inspect construction sites and move heavy equipment.
+
+3D printing in manufacturing and healthcare
+3D printing is the process of making an object from a three-dimensional digital model by progressively layering materials. This year has seen major progress with 3D printing techniques in the manufacturing industry. Recent research states that 61% of manufacturers believe that 3D printing helps meet demand in terms of the right amount and materials, and 58% think 3D printing is a non-negotiable for sustainability. In 2022, new energy-efficient homes have been built in the UK using 3D printing techniques.
+
+In 2022, 3D printing grew in the healthcare sector too, with an increased focus on personalised medicine. While it is currently used mainly to produce prosthetics, technology advancements will continue with items such as surgical guides and wearable devices.
+
+The market for personalised medicine is valued at approximately $10 billion, and the World Health Organisation (WHO) estimates that at least two billion people will need personalised prosthetics and other 3D-printed assistive devices by 2030.
+
+Quality data is essential to 3D printing, allowing for almost instant production of spare parts and constant improvements. This brings us to the next technology trend defining 2022.
+
+Predictive analytics
+Predictive analytics has been the most important technology trend of 2022, making a transformative impact across all industries. We have seen the lifesaving effects, particularly in the healthcare, housing, and energy sectors.
+
+It is unsurprising that spending on data analytics and machine learning increased this year across the healthcare sector. Analysing trends in access to healthcare allows hospitals to better distribute resources and prevent unnecessary visits to A&E.
+
+Data has been a fundamental business technology trend even in areas where investment was predicted to decrease, such as marketing. The use of analytics in marketing to make informed business decisions has actually increased in 2022, and it will continue to be a key component of the digital world in 2023.
+
+“In recent years, data collection has become frowned upon for being invasive *cough cough* Cambridge Analytica *cough cough* Facebook. But the reality is that user data is invaluable for organisations wanting to improve their online service offering, granted that the storage and collection of the data is sufficiently compliant and secure. By using data to better understand user behaviour, improve website performance, and retarget website visitors, businesses can ultimately increase their effectiveness by guiding users through a well-structured marketing funnel.”
